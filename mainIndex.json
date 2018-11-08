@@ -7883,6 +7883,15 @@
 		}
 	},
 	"vmware-vrealize-operations": {
+		"7.0": {
+			"VROPS-700": "788",
+			"VCM-584": "788",
+			"OPENSTACK_2_0": "788",
+			"VCM_584_TOOLS": "788",
+			"VCM_584_VCOWF": "788",
+			"VROPS-700-OSS": "788",
+			"VCM_584_OSS": "788"
+		},
 		"6.7": {
 			"VROPS-670": "735",
 			"VCM-584": "735",
@@ -8088,6 +8097,10 @@
 		}
 	},
 	"vmware-vrealize-log-insight": {
+		"4.7": {
+			"VRLI-470": "794",
+			"VRLI-470-OSS": "794"
+		},
 		"4.6": {
 			"VRLI-461": "736",
 			"VRLI-461-OSS": "736",
