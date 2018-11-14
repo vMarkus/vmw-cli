@@ -8247,6 +8247,10 @@
 		}
 	},
 	"vmware-vrealize-log-insight": {
+                "4.7.1": {
+                        "VRLI-471": "794",
+                        "VRLI-471-OSS": "794"
+                },
 		"4.7": {
 			"VRLI-470": "794",
 			"VRLI-470-OSS": "794"
